@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Smart Wealth Hacks</title>
-    <link>https://smartwealthhacks.com/categories/</link>
-    <description>Recent content in Categories on Smart Wealth Hacks</description>
+    <title>Smart Wealth Hacks</title>
+    <link>https://smartwealthhacks.com/</link>
+    <description>Recent content on Smart Wealth Hacks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://smartwealthhacks.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://smartwealthhacks.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comment Policy</title>
+      <link>https://smartwealthhacks.com/comment-policy/</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://smartwealthhacks.com/comment-policy/</guid>
+      <description>Welcome to our community! We value open and respectful communication. Please read and adhere to our comment policy to ensure a positive and inclusive environment.&#xA;Guidelines: 🔗 Be Respectful: Treat others with kindness and respect. Avoid offensive language, personal attacks, or discriminatory remarks.&#xA;Stay On Topic: Keep your comments relevant to the post or discussion. Off-topic comments may be removed.&#xA;No Spam or Self-Promotion: Avoid posting promotional content or spam. Comments solely for self-promotion may be deleted.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://smartwealthhacks.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://smartwealthhacks.com/about/</guid>
+      <description>Purpose 🔗This is a collection of ideas to help you take action to get of debt, invest for the future, and enjoy your retirement with financial independence.</description>
+    </item>
   </channel>
 </rss>
