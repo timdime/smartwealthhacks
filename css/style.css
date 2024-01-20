@@ -10,6 +10,13 @@ body {
   letter-spacing: 0.008em;
 }
 
+.oc-img {
+  max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 a {
   text-decoration: none;
   color: #5badf0;
@@ -279,7 +286,7 @@ nav.navigation a.button {
 
 /* index post list */
 #list-page {
-  max-width: 580px;
+  max-width: 700px;
   margin: 0 auto;
   padding: 0 24px;
 }
@@ -350,7 +357,7 @@ nav.navigation a.button {
 
 /* single page */
 #single {
-  max-width: 680px;
+  max-width: 850px;
   margin: 60px auto 0 auto;
   padding: 0 64px;
 }
@@ -403,7 +410,7 @@ nav.navigation a.button {
 
 
 #archive {
-  max-width: 580px;
+  max-width: 720px;
   margin: 0 auto;
   padding: 0 24px;
 }
@@ -488,14 +495,14 @@ nav.navigation a.button {
 
 /* section page */
 #section {
-  max-width: 580px;
+  max-width: 680px;
   margin: 48px auto 0 auto;
   padding: 0 12px;
 }
 
 /* 404 page */
 #page-404 {
-  max-width: 580px;
+  max-width: 680px;
   margin: 0 auto;
   padding: 0 24px;
 }
