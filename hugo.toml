@@ -1,0 +1,17 @@
+baseURL = 'https://smartwealthhacks.com/'
+languageCode = 'en-us'
+title = 'Smart Wealth Hacks'
+theme = 'mini'
+disqusShortname = 'smartwealthhacks-com'
+
+[params]
+author = "| TJD"
+bio = "Personal financial tips and hacks to help increase and preserve your net worth into the future."
+colorScheme = "scheme-darkbrown"
+subscribe = "rss"
+showPowerBy = false
+enableComments = true
+
+[[params.links]]
+name = "Comment Policy"
+path = "/comment-policy/"
